@@ -1,0 +1,1 @@
+include (../PhoneTest.pro)
